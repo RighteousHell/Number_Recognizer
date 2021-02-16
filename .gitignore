@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Directories
+x64
+.vs
+Debug
+
+#VSProjectFiles
+*.vcxproj*
